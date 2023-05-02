@@ -4,7 +4,7 @@
   <a href="mailto:rolikaagarwal2003@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
   <a href="https://www.linkedin.com/in/rolika-agarwal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-<img alt="Name" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey There! I'm Rolika Agarwal</h2>
+ <h2>👋 Hey There! I'm Rolika Agarwal</h2>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
