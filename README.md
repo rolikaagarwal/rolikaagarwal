@@ -13,7 +13,7 @@
 🎓 &nbsp;Skilled coder and front-end developer with a passion for exploring new technologies and advancements in the field.\
 🌱 &nbsp; Constantly seeking new opportunities to learn and grow your skills, with a particular interest in expanding into backend development.\
 ✍️ &nbsp;I value user experience, creating intuitive and appealing interfaces.\
-✉️ &nbsp;You can shoot me an email at rolikaagarwal2003@gmail.com ! I'll try to respond as soon as I can.
+
 
 <img alt="Coding" src="https://user-images.githubusercontent.com/81984963/234688527-2cd1053c-f5d5-490e-9f37-0e533fed6256.gif" align="right"/>
 
