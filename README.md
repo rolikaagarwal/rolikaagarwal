@@ -11,7 +11,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;Skilled coder and front-end developer with a passion for exploring new technologies and advancements in the field.\
-🌱 &nbsp; Constantly seeking new opportunities to learn and grow your skills, with a particular interest in expanding into backend development.\
+🌱 &nbsp; Constantly seeking new opportunities to learn and grow your skills, with a particular interest in expanding into backend development.
 ✍️ &nbsp;I value user experience, creating intuitive and appealing interfaces.\
 
 
