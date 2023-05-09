@@ -1,4 +1,4 @@
-<p align="center">!
+<p align="center">
 
   <img src = "https://user-images.githubusercontent.com/81984963/234690435-6eba6067-ed86-4ffb-8b48-1f71554592e4.png" width = "300" height = "300" align = "center">
   <a href="mailto:rolikaagarwal2003@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
