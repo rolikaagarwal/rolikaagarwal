@@ -10,9 +10,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;Skilled coder and front-end developer with a passion for exploring new technologies and advancements in the field.\
+🎓 &nbsp;Skilled coder and full-stack developer with a passion for exploring new technologies and advancements in the field.\
 🌱 &nbsp; Constantly seeking new opportunities to learn and grow your skills, with a particular interest in expanding into backend development.
-✍️ &nbsp;I value user experience, creating intuitive and appealing interfaces.\
+✍️ &nbsp;I value user experience, creating intuitive and appealing interfaces.
 
 
 <img alt="Coding" src="https://user-images.githubusercontent.com/81984963/234688527-2cd1053c-f5d5-490e-9f37-0e533fed6256.gif" align="right"/>
