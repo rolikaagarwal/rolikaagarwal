@@ -9,7 +9,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp; I'm a MERN Stack Developer\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;Skilled coder and full-stack developer with a passion for exploring new technologies and advancements in the field.\
 🌱 &nbsp; Constantly seeking new opportunities to learn and grow my skills, with a particular interest in expanding into backend development.\
 ✍️ &nbsp;I value user experience, creating intuitive and appealing interfaces.
